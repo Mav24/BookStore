@@ -1,6 +1,6 @@
 ﻿' Name Book Store
 ' Purpose: School Project
-' Programmer: Murray Duke June 23th 2019
+' Programmer: Maverick June 23th 2019
 
 Option Explicit On
 Option Strict On
